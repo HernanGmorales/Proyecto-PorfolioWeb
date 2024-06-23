@@ -1,3 +1,6 @@
+### Preview Responsive
+![](https://github.com/HernanGmorales/Proyecto-PorfolioWeb/blob/master/por.png)
+
 ### Ver ejemplo en vivo
 
 https://hernangmorales.github.io/TuMotoTienda/

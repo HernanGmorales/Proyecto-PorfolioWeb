@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Proyecto-PorfolioWeb/build/static/css/main.f356c628.css",
+    "main.js": "/Proyecto-PorfolioWeb/build/static/js/main.4c16dfe5.js",
+    "static/js/511.16bcfe49.chunk.js": "/Proyecto-PorfolioWeb/build/static/js/511.16bcfe49.chunk.js",
+    "static/media/header.png": "/Proyecto-PorfolioWeb/build/static/media/header.b2365444a755f5cdfce4.png",
+    "static/media/project-img3.png": "/Proyecto-PorfolioWeb/build/static/media/project-img3.7658e448f13a4738a125.png",
+    "static/media/project-img5.png": "/Proyecto-PorfolioWeb/build/static/media/project-img5.d2a7643f79ee3a4c31b1.png",
+    "static/media/project-imgI.png": "/Proyecto-PorfolioWeb/build/static/media/project-imgI.5a05dd5185848b1c39ce.png",
+    "static/media/project-img2.png": "/Proyecto-PorfolioWeb/build/static/media/project-img2.2257f145b579ec823156.png",
+    "static/media/project-img4.png": "/Proyecto-PorfolioWeb/build/static/media/project-img4.12aa39aaa89a9105d9e6.png",
+    "static/media/meter2.png": "/Proyecto-PorfolioWeb/build/static/media/meter2.f0e988b7b9895414ebcd.png",
+    "static/media/meter3.png": "/Proyecto-PorfolioWeb/build/static/media/meter3.5574829c312629800e4e.png",
+    "static/media/project-img6.png": "/Proyecto-PorfolioWeb/build/static/media/project-img6.0c29bd5bf28e779f36ce.png",
+    "static/media/revicons.eot": "/Proyecto-PorfolioWeb/build/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Proyecto-PorfolioWeb/build/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Proyecto-PorfolioWeb/build/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/github-line.svg": "/Proyecto-PorfolioWeb/build/static/media/github-line.56b047b96adba8da6164b07616d7d63b.svg",
+    "static/media/nav-icon3.svg": "/Proyecto-PorfolioWeb/build/static/media/nav-icon3.5d4d4754fa682379463d7038ff9fa6db.svg",
+    "index.html": "/Proyecto-PorfolioWeb/build/index.html",
+    "static/media/nav-icon1.svg": "/Proyecto-PorfolioWeb/build/static/media/nav-icon1.57f03ed52f9d9553ac68f47b32cb74c7.svg",
+    "static/media/linkedin-fill.svg": "/Proyecto-PorfolioWeb/build/static/media/linkedin-fill.e949fb452db87a2e982c3017a30d3fa7.svg",
+    "static/media/cv.svg": "/Proyecto-PorfolioWeb/build/static/media/cv.cfeb48a7e07e286385341c8aed4b5b66.svg",
+    "main.f356c628.css.map": "/Proyecto-PorfolioWeb/build/static/css/main.f356c628.css.map",
+    "main.4c16dfe5.js.map": "/Proyecto-PorfolioWeb/build/static/js/main.4c16dfe5.js.map",
+    "511.16bcfe49.chunk.js.map": "/Proyecto-PorfolioWeb/build/static/js/511.16bcfe49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f356c628.css",
+    "static/js/main.4c16dfe5.js"
+  ]
+}
